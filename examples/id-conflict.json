@@ -1,0 +1,6 @@
+[
+  {"event": "send", "id": 1, "action": "move one tile east"},
+  {"event": "deliver", "id": 1, "action": "move one tile east"},
+  {"event": "timeout", "id": 1},
+  {"event": "send", "id": 1, "action": "move one tile west"}
+]

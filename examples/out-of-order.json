@@ -1,0 +1,5 @@
+[
+  {"event": "send", "id": 1, "action": "select triangle"},
+  {"event": "send", "id": 2, "action": "select circle"},
+  {"event": "deliver", "id": 2, "action": "select circle"}
+]

@@ -1,0 +1,10 @@
+[
+  {"event": "send", "id": 1, "action": "select triangle"},
+  {"event": "deliver", "id": 1, "action": "select triangle"},
+  {"event": "ack", "id": 1},
+  {"event": "send", "id": 2, "action": "select circle"},
+  {"event": "deliver", "id": 1, "action": "select triangle"},
+  {"event": "ack", "id": 1},
+  {"event": "deliver", "id": 2, "action": "select circle"},
+  {"event": "ack", "id": 2}
+]
